@@ -1,0 +1,24 @@
+body{
+    background-color: #000;
+}
+.full_website{
+    text-align: center;
+    width: 1024px;
+    margin: 20px auto;
+    box-shadow: 1px 1px 6px rgba(0,0,0,.4);
+}
+.menu{
+    color: #fff;
+    background-color: #34495E;
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+.content {
+	color: #1F1F51;
+	background-color: #0D6EFD;
+}
+.footer {
+	background-color: #0F713E;
+}
